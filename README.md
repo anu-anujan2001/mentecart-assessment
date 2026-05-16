@@ -207,3 +207,7 @@ PATCH /bookings/:id/complete (admin)
 - Role-based authorization
 
 ---
+
+# Demo Video
+
+https://youtube.com/shorts/xMabWWZh1jg?feature=share
